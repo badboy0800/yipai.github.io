@@ -84,7 +84,7 @@ h1 span {
   background: url(../images/q1.jpg) no-repeat center center;
 }
 .header1_c {
-  background: url(../images/b2.jpg) no-repeat center center;
+  background: url(../images/bh.jpg) no-repeat center center;
 }
 .page_container h2, .page_container h1, .sidebar h2{
   border-bottom: 1px solid rgba(0,0,0,0.15);
@@ -128,6 +128,10 @@ h1 span {
     background: url(../images/q2.jpg) no-repeat;
     background-size: 100%;
 }
+.check1_c{
+    background: url(../images/bh1.jpg) no-repeat;
+    background-size: 100%;
+}
 .check2{
   height: 230px; 
   width: 400px;
@@ -144,5 +148,9 @@ h1 span {
 }
 .check2_h{
   background: url(../images/hz1.jpg) no-repeat center;
+  background-size: 100%;
+}
+.check2_c{
+  background: url(../images/bh2.jpg) no-repeat center;
   background-size: 100%;
 }

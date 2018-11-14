@@ -39,6 +39,9 @@ header{
 	line-height: 60px;
 	cursor: pointer;
 }
+.top a{
+	color: #fff;
+}
 .top .vipc{
 	float: right;
 	left: 77%;
